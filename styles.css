@@ -19,3 +19,8 @@ h1 {
     text-align: center;
     display: inline-block;
 }
+
+p {
+    font-size: 3rem;
+    color:rgb(rgb(232, 96, 96), rgb(141, 241, 141) , rgb(79, 79, 221));
+}
