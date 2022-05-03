@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to right, #AB46D2, #E4AEC5);
+}
+
+.wrapper {
+    width: 70%;
+    margin: auto;
+}
