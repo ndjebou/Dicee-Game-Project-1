@@ -21,9 +21,9 @@ document.querySelectorAll
 // using conditional statement 
 
 if (firstRandomNum > secondRandomNum) {
-    document.querySelector ('h1').innerHTML = 'Player 1 is the winner!';
+    document.querySelector ('h1').innerHTML = '🚩Player 1 is the winner!';
 } else if (firstRandomNum < secondRandomNum) {
-    document.querySelector ('h1').innerHTML = 'Player 2 is the winner!';
+    document.querySelector ('h1').innerHTML = '🚩Player 2 is the winner!';
 } else {
     document.querySelector ('h1').innerHTML = "It's a Draw!"; 
 }
