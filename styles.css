@@ -2,7 +2,7 @@ body {
     background: linear-gradient(to right, #AB46D2, #E4AEC5);
 }
 
-.wrapper {
+.container {
     width: 70%;
     margin: auto;
     text-align: center;
