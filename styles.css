@@ -11,7 +11,9 @@ body {
 h1 {
     margin: 20px;
     font-size: 6rem;
-    color:rgb(red, green, blue);
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    color: #FCFFE7; 
 }
 
 .dice-area {
