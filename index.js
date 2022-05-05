@@ -16,3 +16,10 @@ const secondDiceImage = 'images/dice' + secondRandomNum + '.png';
 document.querySelectorAll
 ('img') [1].setAttribute
 ('src', secondDiceImage); 
+
+
+// using conditional statement 
+
+if (firstRandomNum > secondRandomNum) {
+    document.querySelector ('h1').innerHTML = 'Player 1 is the winner!';
+}
