@@ -19,7 +19,6 @@ document.querySelectorAll
 
 
 // using conditional statement 
-
 if (firstRandomNum > secondRandomNum) {
     document.querySelector ('h1').innerHTML = '🚩Player 1 is the winner!';
 } else if (firstRandomNum < secondRandomNum) {
