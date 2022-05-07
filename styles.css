@@ -1,5 +1,3 @@
-/*CSS File*/
-
 body {
     background: linear-gradient(to right, #AB46D2, #E4AEC5);
 }
@@ -15,7 +13,7 @@ h1 {
     font-size: 6rem;
     font-family: 'Lobster', cursive;
     text-shadow: 5px 0 #232931;
-    color: #FCFFE7; 
+    color: #FCFFE7;
 }
 
 .dice-area {
@@ -31,7 +29,8 @@ p {
 
 img {
     width: 320px;
-}
+} 
+
 
 
 footer {
